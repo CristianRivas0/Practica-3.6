@@ -1,6 +1,9 @@
 body.pagina {
     background-color: rgb(248, 231, 209);
 }
+span.cafeteria {
+    color: brown;
+}
 p.carta {
     position: relative;
     right: 0px;
