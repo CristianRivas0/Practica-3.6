@@ -1,0 +1,21 @@
+body.pagina {
+    background-color: rgb(248, 231, 209);
+}
+p.carta {
+    position: relative;
+    right: 0px;
+}
+p.cafe {
+    position: relative;
+    left: 800px;
+    top: 250px;
+}
+p.contacto {
+    position: relative;
+    right: -1500px;
+    top: 500px;
+}
+footer.foot {
+    position: relative;
+    top: 500px;
+}
