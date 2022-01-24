@@ -22,3 +22,6 @@ footer.foot {
     position: relative;
     top: 500px;
 }
+span.carta {
+    color: red;
+}
